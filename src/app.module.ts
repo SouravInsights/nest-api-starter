@@ -5,7 +5,7 @@ import { MongooseModule } from '@nestjs/mongoose';
 @Module({
   imports: [
     EventModule,
-    MongooseModule.forRoot('mongodb://localhost/hashmeet-nest-db', {
+    MongooseModule.forRoot('mongodb://localhost/nest-api-db', {
       useNewUrlParser: true,
     }),
   ],
