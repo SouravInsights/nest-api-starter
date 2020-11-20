@@ -1,8 +1,8 @@
 {
-  "name": "hashmeet-nest-api",
+  "name": "nest-api-starter",
   "private": true,
   "version": "1.0.0",
-  "description": "HashMeet API built using Nest.js",
+  "description": "A starter api built using nest.js",
   "license": "MIT",
   "scripts": {
     "prebuild": "rimraf dist",
