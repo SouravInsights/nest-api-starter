@@ -1,9 +1,7 @@
 # nest-api-starter - a starter api built using nest.js
 
 This tiny repo is a starter kit for people getting started with [Nest.js](https://nestjs.com/). 
-Hope it gives you a practical walkthrough of some of the concepts of Nest.js. 
-
-> Hope it helps you in some way with your learning journey.
+> Hope it gives you a practical walkthrough of some of the concepts of Nest.js. 
 
 ## Built using
 - [Nest.js](https://nestjs.com/)
