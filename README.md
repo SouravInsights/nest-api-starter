@@ -29,3 +29,4 @@ It might give you a practical walkthrough of some of the concepts of Nest.js.
   - open mongodb compass, connect to your local mongodb server and create your database from the gui
 
 ## Project structure
+(to be added)
