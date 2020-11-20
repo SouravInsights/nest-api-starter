@@ -1,4 +1,4 @@
-# nest-api-starter
+# nest-api-starter - a starter kit for nest.js api
 
 This tiny repo is a starter kit for people getting started with [Nest.js](https://nestjs.com/). 
 It might give you a practical walkthrough of some of the concepts of Nest.js. 
@@ -7,7 +7,7 @@ It might give you a practical walkthrough of some of the concepts of Nest.js.
 
 ## Built using
 - [Nest.js](https://nestjs.com/)
-- MongoDB(https://www.mongodb.com/)
+- [MongoDB](https://www.mongodb.com/)
 - [Mongoose](https://mongoosejs.com/)
 - [Typescript](https://www.typescriptlang.org/)
 
